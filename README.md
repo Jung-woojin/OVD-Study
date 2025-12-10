@@ -2,7 +2,7 @@
 
 Open-Vocabulary Detection(OVD) 모델을 공부하고 정리하는 레포
 
-Inspired by https://arxiv.org/pdf/2401.17270
+Inspired by **YOLO-World** ([arXiv:2401.17270](https://arxiv.org/abs/2401.17270))
 
 ## Scope
 - YOLO-World, GLIP, Grounding DINO, Detic 등 OVD/VLM 기반 디텍터
